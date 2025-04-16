@@ -1,0 +1,19 @@
+/* Estilo inicial para el párrafo */
+#miTexto {
+  color: blue; /* Color de texto inicial */
+  font-size: 18px;
+  font-family: sans-serif;
+  transition: color 0.3s ease; /* Pequeña animación suave al cambiar color */
+}
+
+/* Una CLASE que definirá el NUEVO estilo */
+.textoRojo {
+  color: red; /* Nuevo color de texto */
+  font-weight: bold; /* Hacemos la letra negrita también */
+}
+
+/* Estilo básico para el botón */
+button {
+  padding: 10px 15px; /* Espacio interno */
+  cursor: pointer; /* Cambia el cursor al pasar por encima */
+}
